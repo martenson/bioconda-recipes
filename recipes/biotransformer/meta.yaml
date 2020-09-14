@@ -7,7 +7,7 @@ package:
   version: {{ version }}
 
 build:
-  number: 0
+  number: 1
 
 source:
   url: https://github.com/martenson/biotransformer-snapshots/raw/master/biotransformer_{{ version }}_SNAPSHOT.zip
